@@ -1,6 +1,6 @@
-# Devesh Hegde
+# Talisman
 
-Computer Science student (AI & Data Science) at Thadomal Shahani Engineering College, currently in my second year. I build full-stack products end-to-end — frontend, backend, and increasingly the AI layer. I'm looking for a paid software engineering internship.
+Computer Science student (AI & Data Science) at Thadomal Shahani Engineering College, currently in my second year. I build full-stack products end-to-end — frontend, backend, and increasingly the AI layer — and I'm looking for a paid software engineering internship.
 
 ## Featured Project — FirstMerge
 
@@ -13,6 +13,13 @@ A web platform and Chrome extension that helps first-time open source contributo
 - Secure auth bridge between the web app and extension using Supabase's `onAuthStateChange`, with a background service worker handling silent token refresh
 - Hardened through a full security pass: SSRF mitigation, CORS lockdown, rate limiting, RLS policies, and prompt-injection sanitization on AI inputs
 - Built and shipped for HackVerse 2026
+- Built with [Anki](https://github.com/ankidharmani-tech) — I led the backend, auth/security architecture, and AI integration; Anki built the landing page, FTUE, and Chrome extension from scratch, and we collaborated together on the explore page
+
+**Contributors:**
+
+<a href="https://github.com/talisman8008/FirstMerge/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=talisman8008/FirstMerge" alt="FirstMerge contributors" />
+</a>
 
 ## Other Work
 
@@ -29,7 +36,7 @@ A web platform and Chrome extension that helps first-time open source contributo
 **Frontend:** HTML, CSS, JavaScript, React, Tailwind, Bootstrap
 **Backend:** Node.js, Express, Supabase
 **Languages:** C, Python, JavaScript
-**Tools:** Git, Figma, Canva,framer
+**Tools:** Git, Figma, Canva
 
 ## GitHub Stats
 
