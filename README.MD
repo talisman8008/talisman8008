@@ -1,4 +1,4 @@
-# Talisman
+# Devesh Hegde
 
 Computer Science student (AI & Data Science) at Thadomal Shahani Engineering College, currently in my second year. I build full-stack products end-to-end — frontend, backend, and increasingly the AI layer — and I'm looking for a paid software engineering internship.
 
