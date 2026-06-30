@@ -28,7 +28,7 @@ A web platform and Chrome extension that helps first-time open source contributo
 
 ## Competitive Programming
 
-- **CodeChef:** 2★, rating 1416 (14 rated contests)
+- **CodeChef:** 2★, rating 1416
 - **LeetCode:** 79 problems solved
 
 ## Tech Stack
