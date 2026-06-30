@@ -1,4 +1,4 @@
-# Talisman
+# Devesh Hegde
 
 Computer Science student (AI & Data Science) at Thadomal Shahani Engineering College, currently in my second year. I build full-stack products end-to-end — frontend, backend, and increasingly the AI layer — and I'm looking for a paid software engineering internship.
 
@@ -41,8 +41,8 @@ A web platform and Chrome extension that helps first-time open source contributo
 ## GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=talisman8008&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=talisman8008&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats-azure-ten-57.vercel.app/api?username=talisman8008&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats-azure-ten-57.vercel.app/api/top-langs/?username=talisman8008&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
 </p>
 
 ## Contact
